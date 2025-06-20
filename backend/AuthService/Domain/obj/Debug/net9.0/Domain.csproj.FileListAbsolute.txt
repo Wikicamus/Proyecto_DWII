@@ -1,0 +1,11 @@
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/bin/Debug/net9.0/Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/bin/Debug/net9.0/Domain.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/Domain.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/Debug/net9.0/ref/Domain.dll

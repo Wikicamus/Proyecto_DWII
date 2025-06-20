@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuthService", "AuthService", "{54C27F26-71CB-9721-02CF-9E5332C2F895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "AuthService\Api\Api.csproj", "{89F2AF96-BEAB-63DB-CA79-00E54BB40FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "AuthService\Infrastructure\Infrastructure.csproj", "{37FF7B9F-7C9E-B9DB-C8A3-5064FCC24403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "AuthService\Domain\Domain.csproj", "{93A0C3F1-310C-B09C-B8B0-ABC816B7EF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F2AF96-BEAB-63DB-CA79-00E54BB40FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F2AF96-BEAB-63DB-CA79-00E54BB40FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F2AF96-BEAB-63DB-CA79-00E54BB40FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F2AF96-BEAB-63DB-CA79-00E54BB40FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FF7B9F-7C9E-B9DB-C8A3-5064FCC24403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FF7B9F-7C9E-B9DB-C8A3-5064FCC24403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FF7B9F-7C9E-B9DB-C8A3-5064FCC24403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FF7B9F-7C9E-B9DB-C8A3-5064FCC24403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A0C3F1-310C-B09C-B8B0-ABC816B7EF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A0C3F1-310C-B09C-B8B0-ABC816B7EF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A0C3F1-310C-B09C-B8B0-ABC816B7EF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A0C3F1-310C-B09C-B8B0-ABC816B7EF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89F2AF96-BEAB-63DB-CA79-00E54BB40FB0} = {54C27F26-71CB-9721-02CF-9E5332C2F895}
+		{37FF7B9F-7C9E-B9DB-C8A3-5064FCC24403} = {54C27F26-71CB-9721-02CF-9E5332C2F895}
+		{93A0C3F1-310C-B09C-B8B0-ABC816B7EF19} = {54C27F26-71CB-9721-02CF-9E5332C2F895}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2ABC4F-8DDA-4214-AF16-8CF83E5E55A6}
+	EndGlobalSection
+EndGlobal

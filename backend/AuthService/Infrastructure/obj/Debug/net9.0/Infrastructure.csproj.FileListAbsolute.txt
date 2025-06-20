@@ -1,0 +1,17 @@
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/bin/Debug/net9.0/Infrastructure.runtimeconfig.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/bin/Debug/net9.0/Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/bin/Debug/net9.0/Domain.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/Infrastructure.genruntimeconfig.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll

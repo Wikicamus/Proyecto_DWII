@@ -1,0 +1,17 @@
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/bin/Debug/net9.0/SaleService.Infrastructure.deps.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/bin/Debug/net9.0/SaleService.Infrastructure.runtimeconfig.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/bin/Debug/net9.0/SaleService.Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/bin/Debug/net9.0/SaleService.Infrastructure.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/bin/Debug/net9.0/SaleService.Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/bin/Debug/net9.0/SaleService.Domain.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.csproj.AssemblyReference.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.AssemblyInfoInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.AssemblyInfo.cs
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.csproj.CoreCompileInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleServ.48CEA952.Up2Date
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/refint/SaleService.Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/SaleService.Infrastructure.genruntimeconfig.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/SaleService/SaleService.Infrastructure/obj/Debug/net9.0/ref/SaleService.Infrastructure.dll

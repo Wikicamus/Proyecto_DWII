@@ -1,0 +1,12 @@
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.deps.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.csproj.AssemblyReference.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.AssemblyInfoInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.AssemblyInfo.cs
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.csproj.CoreCompileInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/refint/InventoryService.Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/Debug/net9.0/ref/InventoryService.Domain.dll

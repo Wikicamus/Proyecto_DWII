@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Api/Api.csproj",
+        "packagesPath": "/home/kory/.nuget/packages/",
+        "outputPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kory/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/Domain.csproj": {
+                "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/Domain.csproj"
+              },
+              "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/Infrastructure.csproj"
+              },
+              "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Models/Models/Models.csproj": {
+                "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Models/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/Domain.csproj",
+        "packagesPath": "/home/kory/.nuget/packages/",
+        "outputPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kory/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/kory/.nuget/packages/",
+        "outputPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kory/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/Domain.csproj": {
+                "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Models/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Models/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Models/Models/Models.csproj",
+        "packagesPath": "/home/kory/.nuget/packages/",
+        "outputPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/AuthService/Models/Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kory/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/Api/Api.csproj",
+        "packagesPath": "/home/kory/.nuget/packages/",
+        "outputPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kory/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+                "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+              },
+              "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj": {
+                "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj",
+        "projectName": "InventoryService.Domain",
+        "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj",
+        "packagesPath": "/home/kory/.nuget/packages/",
+        "outputPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kory/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj",
+        "projectName": "InventoryService.Infrastructure",
+        "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj",
+        "packagesPath": "/home/kory/.nuget/packages/",
+        "outputPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kory/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+                "projectPath": "/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

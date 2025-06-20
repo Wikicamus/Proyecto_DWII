@@ -1,0 +1,17 @@
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.deps.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.runtimeconfig.json
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Domain.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Domain.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.csproj.AssemblyReference.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.AssemblyInfoInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.AssemblyInfo.cs
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.csproj.CoreCompileInputs.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/Inventor.7CFDF49E.Up2Date
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/refint/InventoryService.Infrastructure.dll
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.pdb
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.genruntimeconfig.cache
+/home/kory/Documentos/ProyectoIngenieriDeSoftware/backend/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/ref/InventoryService.Infrastructure.dll
